@@ -20,11 +20,11 @@ html{
 	width: 15ch;
     border-radius: 50%;
 }
-.name{
+.repo-name{
 	font-size: 2.5rem;
 }
-.repo_name{
-	font-size: 2rem;
+.name{
+	font-size: 1.8rem;
 }
 .box-repo{
 	display: flex;
